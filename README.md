@@ -1,2 +1,2 @@
 Jannat Naik
-msc(cs)
+
